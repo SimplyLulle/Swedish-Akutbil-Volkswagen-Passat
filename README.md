@@ -13,6 +13,6 @@ Changelog
 
 Readme/Installation & Credits included in download. 
 
-Skin created by Amaymon Gaming, authentic Swedish mods since 2012 
+Skin created by CreatureModding 
 
 Please, don't reupload or redistrubate any file (edited or unedited) without permission!
